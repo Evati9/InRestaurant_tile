@@ -3,17 +3,27 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "Tile_Inrestaurant.tmx",
     "expandedProjectPaths": [
     ],
     "fileStates": {
+        "Tile_Inrestaurant.tmx": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 323,
+                "y": 250.5
+            }
+        }
     },
     "map.height": 14,
     "map.lastUsedFormat": "tmx",
     "map.width": 25,
     "openFiles": [
+        "Tile_Inrestaurant.tmx"
     ],
     "project": "Inrestaurant_Tile.tiled-project",
     "recentFiles": [
+        "Tile_Inrestaurant.tmx"
     ]
 }
